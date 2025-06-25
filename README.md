@@ -1,10 +1,12 @@
 ## 👤 User Akun
 
-| Role           | Email                   | Password   |
-| -------------- | ----------------------- | ---------- |
-| **Admin**      | `admin@example.com`     | `password` |
-| **Approver 1** | `approver1@example.com` | `password` |
-| **Approver 2** | `approver2@example.com` | `password` |
+| Role                | Email                   | Password   |
+| ------------------- | ----------------------- | ---------- |
+| **Admin**           | `admin@example.com`     | `password` |
+| **Admin Tambang 1** | `tambang1@example.com`  | `password` |
+| **Admin Tambang 2** | `tambang2@example.com`  | `password` |
+| **Approver 1**      | `approver1@example.com` | `password` |
+| **Approver 2**      | `approver2@example.com` | `password` |
 
 > **Catatan:** Semua akun menggunakan password: `password`
 
