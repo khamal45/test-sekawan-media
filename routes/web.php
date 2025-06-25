@@ -14,7 +14,7 @@ use App\Http\Controllers\JadwalServiceController;
 Route::middleware(['auth'])->group(function () {
 
     Route::get('/', function () {
-        return redirect()->route('pemesanan.grafik');
+        return redirect()->route('dashboard');
     });
 
     Route::get('/dashboard', [GrafikPemakaianController::class, 'index'])->name('dashboard');
