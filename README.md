@@ -71,7 +71,7 @@ Aktifkan ekstensi PHP berikut:
     php artisan migrate
     ```
 
-8. Seed data awal (jika tersedia):
+8. Seed data awal:
 
     ```bash
     php artisan db:seed
