@@ -1,3 +1,13 @@
+## 👤 User Akun
+
+| Role           | Email                   | Password   |
+| -------------- | ----------------------- | ---------- |
+| **Admin**      | `admin@example.com`     | `password` |
+| **Approver 1** | `approver1@example.com` | `password` |
+| **Approver 2** | `approver2@example.com` | `password` |
+
+> **Catatan:** Semua akun menggunakan password: `password`
+
 ## Video Panduan
 
 -   🎥 [Video Instalasi](https://youtu.be/VyTBrNnjTL0)

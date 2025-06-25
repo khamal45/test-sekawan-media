@@ -28,7 +28,7 @@ class ApprovalController extends Controller
                     $q->where('approver1_id', $user->id)
                         ->orWhere('approver2_id', $user->id);
                 })
-                    ->where('status', 'approved');
+                    ->whereIn('status', ['approved', 'menunggu approver 2']);
             })
             ->get();
 
