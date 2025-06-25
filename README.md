@@ -40,7 +40,7 @@ Aktifkan ekstensi PHP berikut:
 1. Clone repository ini ke folder yang Anda inginkan:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/khamal45/test-sekawan-media
     ```
 
 2. Buka project di Visual Studio Code.
